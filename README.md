@@ -101,7 +101,7 @@ Para implementar essas novas funcionalidades, vamos adicionar métodos à classe
 - código:
 
 ### Explicação das Novas Funcionalidades
-Atualizar Status do Pedido (atualizar_status):
+#### Atualizar Status do Pedido (atualizar_status):
 
 O método permite alterar o status do pedido para "Pendente", "Retirado", "Entregue" ou "Cancelado".
 O status é atualizado apenas se for uma das opções válidas.
